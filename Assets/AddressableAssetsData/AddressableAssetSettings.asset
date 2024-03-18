@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: c50954059b03e294981ba2bfca9b4ae2
+  m_currentHash:
+    serializedVersion: 2
+    Hash: 1fece29beae4beebb1de67d95962d625
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 1
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 60e81135bb0c9904c8ebc98de04b4572
+  m_RemoteCatalogLoadPath:
+    m_Id: 07c60faa6567d3e42b78de5c33252509
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: e0eaec8ac43c0584cb8dbd2707b04ec5, type: 2}
+  - {fileID: 11400000, guid: a7a097d327c9f78469ecee27439dfd86, type: 2}
+  - {fileID: 11400000, guid: f585e71f761b32044b1d0b007712edd8, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 96bdc84724b20a04a9cc4ecf2f895328
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 72b16165aefbd9c42bbc1ac0fbffaf0b
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: c6d629129d2b481489a5a22dc276bd56
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: f8b36ea5002b319409d455eca48ce2b5
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 60e81135bb0c9904c8ebc98de04b4572
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 07c60faa6567d3e42b78de5c33252509
+        m_Value: https://storage.googleapis.com/home-studio-design-bucket/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: 3ef17d5a500dd524e80e15b3d60f6bb2
+      m_ProfileName: Google Alt
+      m_Values:
+      - m_Id: 72b16165aefbd9c42bbc1ac0fbffaf0b
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: c6d629129d2b481489a5a22dc276bd56
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: f8b36ea5002b319409d455eca48ce2b5
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 60e81135bb0c9904c8ebc98de04b4572
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 07c60faa6567d3e42b78de5c33252509
+        m_Value: https://storage.googleapis.com/hsd-bucket/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 72b16165aefbd9c42bbc1ac0fbffaf0b
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: c6d629129d2b481489a5a22dc276bd56
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: f8b36ea5002b319409d455eca48ce2b5
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 60e81135bb0c9904c8ebc98de04b4572
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 07c60faa6567d3e42b78de5c33252509
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - recording studio
+    - furnishings
+    - Furnitures
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 03221716f97aa924489dcdaf28bab152, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 659e3dac7e4fc5243af115c6983665e3, type: 2}
+  - {fileID: 11400000, guid: 081a5e5b5057b80438513c8905a7cebb, type: 2}
+  - {fileID: 11400000, guid: b2cdc64cb537b19468b2501befae5419, type: 2}
+  - {fileID: 11400000, guid: 8017cb501c625d74d862497889d62faa, type: 2}
+  m_ActiveProfileId: 3ef17d5a500dd524e80e15b3d60f6bb2
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
+    m_PingTimeoutInMilliseconds: 5000

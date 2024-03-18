@@ -1,0 +1,517 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Furniture Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Furniture Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5bef3e48dd7e4b042af7d0c79f92772f
+  m_SerializeEntries:
+  - m_GUID: 741dc6d538c761b429720555d8434b1c
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem0.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afeb010ad08441f49bbbd3cd618ee822
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90bacfb101587104e8ff737691d5e21d
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec673e2e094032442886cd856c431c9a
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c80a6eac407c5d0458c1576ffda4c0a1
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4aba664ec7c86a4ca2a9a1eb1b780bf
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e955264ad3929428c80cf7c96573c4
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a72b89f8b22020f46ac5cbc8d4ebc29e
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d20a202db699c21408f55d4e578c3591
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem21.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 900d2fa36db5cc3429b67d55d10b0fa8
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem20.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4bb43247a759934c8a8c631fe04420a
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem19.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c692e3b22800d42842b84bdd293cb0
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem18.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 635f371b436e0914d869dd2c879ccd2c
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem17.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b8c9749ff1813a4580f8a1a918e7419
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem16.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32c7bd7956139f74e981b2c3788e87e4
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem15.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e755627c5f8d4645951c5317b327602
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem14.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699f0875804789a4b8e855326f5eaf8a
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c05b38b3e02292346bd7ed7e351b5a05
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 893b4d42ec7baaa429caf293b803f134
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4a034286d0c26642a0aff3c1d9ec237
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2389f4a8d56cf3d4bab9568034bc8771
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem9.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 945f3791dd85b664caf44ce999e39482
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 010d77337edc12d47bb41401469d6f9d
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 796b52b19f49e5544920246bfd7408dd
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1058c740b4aed5844a73cd6c9049cc44
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 987d252bf0939444bba2f78cea755aa2
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaa3dbbdd26223744a8c517364a6d2d9
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85e471354e5b86d4380275a31aefab03
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75ca962aa60a42e4d9b068f3d194c5a7
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52a172b89a86b6a42a0fe3fa3b6722ae
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e55a13e807216bb4aade485a1c41da29
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a7da3835ead182428c5ae42f1ce1c01
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 9.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de7e2e2f82f8b3742bd599c7c7df4afa
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6b5ea5ba0163704dba9f05a24c7815a
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c051cec32088ad4b91f8c9fae829ccd
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aabbd4389df35945a9b01ad16e7f813
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e4b4733d00cd54483d38ff1b89e8b7
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 14.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 530a25b1c2f349c46a5213c3dfe04e29
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 15.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856b05edbabe3b34a888e133afed76ed
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 16.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e750e047588e344db2aa6c8e5f6d1e7
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 17.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff4357dcace8cdd439a8cd8bd560d753
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 18.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d74252454412be49b1d156811625b04
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 19.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca17512e65e3cd54ba2d1c3cffd9637b
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 20.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 020fa93f2b994004dac890486e0a364e
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 21.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d366336c95f54ef40a64ba33185dc1c6
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 22.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982a00097ed48cc4692ea7c293aa62bf
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 23.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3993ab759ba17e245a58eedeb6615c38
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 24.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4cf937e2fa480d4b9c429e6138a43c9
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 25.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d021277587622ea4aba45dfd14f11e17
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 26.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5ab48182d1fc0642a845187a33c8f97
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 27.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7887d237e6d1114c83a110e707bd9db
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 28.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5c18b7d77bcf9a4a833c250b8450b9d
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 29.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ea90ccdfb6deba4391ba71f5c4adce4
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 30.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faaaadc6794a8194f9f3c3f333db8581
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 31.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e2b61bbda3ff8244a25ed839d894a27
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 32.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4265cf8f4e7b5ae418415d61f94475bf
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 33.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f8a7b43c3a8f7446ad14b30ddd0c305
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 34.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d0e8090bf35cd499d3c953c4337d1f
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 35.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c57a46bfc4373047a1587b8f65155b4
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 36.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11f6a06f3ae3b4c4fab84b7b9e346b0f
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 37.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b0bd5317307774795a323a9ca12b62
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 38.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 012964d626261a848a734b6ffa4ff7c9
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 39.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29f79e9338621545ae20e69a1259fcf
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 40.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f85137556373ac429d07f3890f993f7
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 41.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde130a65808c4546936dde9d7073292
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 42.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14d83f70dee765a48b4dd498f292c4a3
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 43.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5ee693f13e33a941be18053b5b4adb5
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 44.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b7b71a255fe80a42ba502fc9082b3d6
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 45.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f9c739337879614099feb9a23368509
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 46.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81daf11a9dc34544e9dac01736069eeb
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 47.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73266f601589e54ab7e50430b5ef676
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 48.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99ecb61d67c327468fb4f468be78cad
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 49.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1a4e8251ccf4f14389aedafd3960017
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 50.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9d176be9757fe04499ff17c40a34d20
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 51.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d1fa2e33d87fb4c87a941ef4da791d
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 52.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 713898bb62aa9964f9f7d0709f7e557e
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 53.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd7bf5a00a0c96644af182d9d6b794a5
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 54.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fab4a01512d99a9478b3af9701035842
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 55.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b75a951e93cbbcd4a856beeaba9eac13
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 56.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c1ae928052fe47498d02ba4e06a327b
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 57.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 750a780b011b82846aa91b7eee101067
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 58.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed0e5200d94a1d249b3d873840775afb
+    m_Address: Assets/Addressable Assets/DesignItems/DesignItem22 59.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 411355ae79e6f6b41aeb2aaf5c7392a2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7d5d3cfa9067a694bb3dc83ec247d953, type: 2}
+    - {fileID: 11400000, guid: 12647b05853d2b24ca53ca6f03c4f244, type: 2}
