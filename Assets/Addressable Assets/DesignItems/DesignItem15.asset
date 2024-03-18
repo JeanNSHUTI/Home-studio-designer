@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3fa8e8fb4fc8b142b236db248933db1, type: 3}
+  m_Name: DesignItem15
+  m_EditorClassIdentifier: 
+  prefabId: piano stool
+  description: black leather piano stool
+  type: furnishings
+  placementTags: room;floor
+  styleTags: 'vintage;leather;chair '
+  packageTag: single
+  priceRangeTag: high-end
+  musicStyleTags: any
+  popularityScore: 0
+  designItemPrefab: {fileID: 8626143292867620232, guid: aa46016c3eb908d4b8ad2212b6ad27dd, type: 3}
+  designItemImage: {fileID: 21300000, guid: bafc21bd470dcb8409ec608f0fab5acd, type: 3}

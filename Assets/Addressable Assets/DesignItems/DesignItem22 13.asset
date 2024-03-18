@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3fa8e8fb4fc8b142b236db248933db1, type: 3}
+  m_Name: DesignItem22 13
+  m_EditorClassIdentifier: 
+  prefabId: hiphop black drum
+  description: hiphop black drum
+  type: recording studio
+  placementTags: room;floor
+  styleTags: instruments;drum sets
+  packageTag: set
+  priceRangeTag: high-end
+  musicStyleTags: rock;pop;indie
+  popularityScore: 0
+  designItemPrefab: {fileID: 3388184982131541554, guid: 01705c5246442944db7ff59b561c1bad, type: 3}
+  designItemImage: {fileID: 21300000, guid: dc90844e21672a04299f2a8cf2b17e86, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3fa8e8fb4fc8b142b236db248933db1, type: 3}
+  m_Name: DesignItem22 3
+  m_EditorClassIdentifier: 
+  prefabId: yamaha midi keyboard
+  description: yamaha dx7 midi keyboard
+  type: recording studio
+  placementTags: room;table
+  styleTags: instruments;controllers
+  packageTag: single
+  priceRangeTag: high-end
+  musicStyleTags: rock;pop;indie
+  popularityScore: 0
+  designItemPrefab: {fileID: 1997724623304037988, guid: 4cfae3d4420ab9e4bafcbf73797b78e5, type: 3}
+  designItemImage: {fileID: 21300000, guid: ff748e3b7a73cd749ad7db883256cfa7, type: 3}
