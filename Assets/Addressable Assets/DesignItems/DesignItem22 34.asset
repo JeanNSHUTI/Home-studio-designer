@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3fa8e8fb4fc8b142b236db248933db1, type: 3}
+  m_Name: DesignItem22 34
+  m_EditorClassIdentifier: 
+  prefabId: dbx compressor
+  description: dbx compressor
+  type: recording studio
+  placementTags: room;table
+  styleTags: instruments;recording;racks
+  packageTag: single
+  priceRangeTag: middle-end
+  musicStyleTags: rock;pop;indie
+  popularityScore: 0
+  designItemPrefab: {fileID: 5290376457680278576, guid: c2e09c4cbd2da794987dca98b1aa43c8, type: 3}
+  designItemImage: {fileID: 21300000, guid: dddb9625211cfd347a979bfe36d7a69b, type: 3}
