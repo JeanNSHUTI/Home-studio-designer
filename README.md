@@ -9,4 +9,4 @@ Please refer to the report that details the architecture and various functions o
 
 ## Models
 
-You will notice that the folder Assets/Models folder has been excluded via gitignore from the repo mainly due to its large size. However, if you want to try this app, please feel free to download the folder from my Google drive and then connect to your personal Google Bucket where you zill have to place the contents of the folder [ServerData/Android/](https://github.com/JeanNSHUTI/Home-studio-designer/tree/main/ServerData/Android).
+You will notice that the folder Assets/Models folder has been excluded via gitignore from the repo mainly due to its large size. However, if you want to try this app, please feel free to download the folder from my [Google drive](https://drive.google.com/drive/folders/1q5L4XD9eqxktTItHBFyFf0g6Zi_Ovn0s?usp=sharing) and then connect to your personal Google Bucket where you will have to place the contents of the folder [ServerData/Android/](https://github.com/JeanNSHUTI/Home-studio-designer/tree/main/ServerData/Android).
